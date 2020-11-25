@@ -5,6 +5,8 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 ## Este es un cambio de Jesus
 ## Este es un cambio de Manuel
+## Modifique el archivo usando VisualCode
+
 
 
 
